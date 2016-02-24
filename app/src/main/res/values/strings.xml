@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Prog_106</string>
+    <string name="button">Alert Dialog</string>
+    <string name="button2">Toast</string>
+    <string name="button3">Progress Dialog</string>
+    <string name="button4">Intent</string>
+    <string name="button5">Activity</string>
+    <string name="message">自作Activityを呼び出しました。</string>
+    <string name="button_label">初期画面に戻ります。</string>
+</resources>
